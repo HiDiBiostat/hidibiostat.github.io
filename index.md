@@ -9,3 +9,9 @@ Here you will find a selection of resources made available by members of the [Hi
 
 # SAS macros
 - 
+
+
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Inserm.svg" alt="logo INSERM" width="200px">
+<img src="https://hal.archives-ouvertes.fr/UNIV-PARIS-SACLAY/public/logo_UP_saclay_final.png" alt="logo UPSC" width="150px">
