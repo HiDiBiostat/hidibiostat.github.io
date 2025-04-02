@@ -3,5 +3,5 @@ Here you will find a selection of resources made available by members of the [Hi
 
 # R packages hosted on the CRAN
 
-- gaston: Genetic Data Handling (QC, GRM, LD, PCA) & Linear Mixed Models : https://cran.r-project.org/web/packages/gaston/index.html
+- gaston: Genetic Data Handling (QC, GRM, LD, PCA) & Linear Mixed Models : <https://cran.r-project.org/web/packages/gaston/index.html>
 - 
