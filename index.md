@@ -11,6 +11,11 @@ Here you will find a selection of resources made available by members of the [Hi
 - salad: Simple Automatic Differentiation : <https://cran.r-project.org/web/packages/Ravages/index.html>
 - adapt4pv: Adaptive Approaches for Signal Detection in Pharmacovigilance : <https://cran.r-project.org/web/packages/adapt4pv/index.html>
 
+# Supplementary Material of Publications
+- Quentin E, Ahmed I, Duong CH, Tubert-Bitter P, Escolano S. Covid-19 Vaccination During Pregnancy in France: a Descriptive Study of Uptake Using the National Healthcare data System. Vaccine. 2025;58:127223. <https://doi.org/10.1016/j.vaccine.2025.127223>
+  - SAS macros for database constitution (identification of pregnancies, determination of pregnancy outcomes, mother-child linkage) : <https://github.com/sylvieescolano/SNDS_pregnancy>  
+
+
 <!--- # SAS macros
 -->
 
