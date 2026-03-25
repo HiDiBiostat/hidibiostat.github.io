@@ -15,7 +15,10 @@ Here you will find a selection of resources made available by members of the [Hi
 
 # Supplementary Material of Publications
 - Quentin E, Ahmed I, Duong CH, Tubert-Bitter P, Escolano S. Covid-19 Vaccination During Pregnancy in France: a Descriptive Study of Uptake Using the National Healthcare data System. Vaccine. 2025;58:127223. <https://doi.org/10.1016/j.vaccine.2025.127223>
-  - SAS macros for database constitution (identification of pregnancies, determination of pregnancy outcomes, mother-child linkage) : <https://github.com/sylvieescolano/SNDS_pregnancy>  
+  - SAS macros for database constitution (identification of pregnancies, determination of pregnancy outcomes, mother-child linkage) : <https://github.com/sylvieescolano/SNDS_pregnancy>
+- Duong C-H, Quentin E, Demailly R, Quantin C, Escolano S, Botton J, Tubert-Bitter* P, & Ahmed* I (2026). Association between exposure to non-steroidal anti-inflammatory drugs in pregnancy and miscarriage risk : A French nationwide retrospective cohort study. BMJ Open, 16(3), e111456. https://doi.org/10.1136/bmjopen-2025-111456
+  - R codes for statistical analyses : <https://github.com/HiDiBiostat/Association-between-exposure-to-NSAIDs-in-pregnancy-and-miscarriage>
+
 
 
 <!--- # SAS macros
